@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Velvet2045/movie-web-service-with-react-js/static/css/main.cd44dcbf.chunk.css",
+    "main.js": "/Velvet2045/movie-web-service-with-react-js/static/js/main.26beba19.chunk.js",
+    "main.js.map": "/Velvet2045/movie-web-service-with-react-js/static/js/main.26beba19.chunk.js.map",
+    "runtime-main.js": "/Velvet2045/movie-web-service-with-react-js/static/js/runtime-main.c1bded3a.js",
+    "runtime-main.js.map": "/Velvet2045/movie-web-service-with-react-js/static/js/runtime-main.c1bded3a.js.map",
+    "static/js/2.f3939a42.chunk.js": "/Velvet2045/movie-web-service-with-react-js/static/js/2.f3939a42.chunk.js",
+    "static/js/2.f3939a42.chunk.js.map": "/Velvet2045/movie-web-service-with-react-js/static/js/2.f3939a42.chunk.js.map",
+    "index.html": "/Velvet2045/movie-web-service-with-react-js/index.html",
+    "static/css/main.cd44dcbf.chunk.css.map": "/Velvet2045/movie-web-service-with-react-js/static/css/main.cd44dcbf.chunk.css.map",
+    "static/js/2.f3939a42.chunk.js.LICENSE.txt": "/Velvet2045/movie-web-service-with-react-js/static/js/2.f3939a42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1bded3a.js",
+    "static/js/2.f3939a42.chunk.js",
+    "static/css/main.cd44dcbf.chunk.css",
+    "static/js/main.26beba19.chunk.js"
+  ]
+}
